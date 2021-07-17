@@ -1,0 +1,60 @@
+body{
+    font-family: 'Qahiri', sans-serif;
+    background:white;  
+}
+.header_div{
+    background:white;
+    color: turquoise;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: tomato;
+    padding: 10px;
+    margin-top:15px;
+    border: 3px solid white;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera,#result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;  
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position:fixed;
+    color: cyan;
+    bottom: 0px;
+    width:100%;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+}
+#noobinthechat{
+    float: left;
+}
